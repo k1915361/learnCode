@@ -1,10 +1,13 @@
 # learnCode
 Learn Code with friends with this android app.
-Get random code snippets and explain or dixcuss it with your friends and groups.
-Earn highest vote counts from your friends, group and community.
-Test your knowledge and come up with a better solution or explanation with your friends.
 
-This app also includes physics and mobile sensor playground to encourage  gaining personal interest on the  capabilities of their phone and learning programming for fun.
+Get random code snippets, explain and discuss it with your friends and groups.
+
+Test your knowledge and come up with a better solution or explanation as a group.
+
+Earn highest vote counts from your friends, group and community.
+
+This app also includes physics and mobile sensor playground to encourage gaining personal interest on the capabilities of programming and their mobile phone.
 
 The up to date source code is in Gitlab and is currently being assessed. later the updated source code will be moved here as well.
 
